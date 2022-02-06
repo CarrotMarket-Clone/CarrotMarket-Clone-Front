@@ -12,7 +12,7 @@ npm start
 ```
 
 ### 계획
-1. Front 구축 using React
+1. Front 구축
 ```
   - 당근마켓 메인 페이지
   - 믿을 수 있는 중고거래 페이지
