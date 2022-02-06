@@ -1,6 +1,9 @@
 # CarrotMarket-Clone-Front
 당근마켓 클론코딩 프로젝트 (프론트엔드)
-
+### Directory 이동
+```
+cd client
+```
 ### Package 설치
 ```
 npm install
